@@ -142,7 +142,7 @@ void measureAndSendSMS() {
     
   
 
-  // Wait a short time before taking the next measurement
+  // Wait a short time before taking the next measurements
   delay(500);
 }
 
